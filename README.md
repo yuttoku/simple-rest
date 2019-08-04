@@ -1,5 +1,5 @@
 # simple-rest
-This project is simple Restful API using Spring Boot 
+This project is simple Restful API using Spring Boot and JDK 12.
 
 ## Resource
 #### List Issues For a Repository
