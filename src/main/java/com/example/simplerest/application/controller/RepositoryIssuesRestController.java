@@ -1,8 +1,8 @@
-package com.example.demo.application.controller;
+package com.example.simplerest.application.controller;
 
-import com.example.demo.application.resource.RepositoryIssueResource;
-import com.example.demo.domain.resository.dto.repositoryissue.RepositoryIssueDTO;
-import com.example.demo.domain.service.RepositoryIssueService;
+import com.example.simplerest.application.resource.RepositoryIssueResource;
+import com.example.simplerest.domain.resository.dto.repositoryissue.RepositoryIssueDTO;
+import com.example.simplerest.domain.service.RepositoryIssueService;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.example.demo.persistence.rest.github.response.listissuesforarepository;
+package com.example.simplerest.persistence.rest.github.response.listissuesforarepository;
 
 import lombok.Data;
 

@@ -1,6 +1,6 @@
-package com.example.demo.domain.resository.dto.repositoryissue;
+package com.example.simplerest.domain.resository.dto.repositoryissue;
 
-import com.example.demo.persistence.rest.github.response.listissuesforarepository.Milestone;
+import com.example.simplerest.persistence.rest.github.response.listissuesforarepository.Milestone;
 import lombok.Data;
 import java.util.Date;
 

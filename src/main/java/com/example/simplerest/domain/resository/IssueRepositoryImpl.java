@@ -1,14 +1,14 @@
-package com.example.demo.domain.resository;
+package com.example.simplerest.domain.resository;
 
-import com.example.demo.domain.resository.dto.repositoryissue.RepositoryIssueDTO;
-import com.example.demo.persistence.rest.github.IssuesRestClient;
-import com.example.demo.persistence.rest.github.response.listissuesforarepository.RepositoryIssue;
+import com.example.simplerest.domain.resository.dto.repositoryissue.RepositoryIssueDTO;
+import com.example.simplerest.persistence.rest.github.IssuesRestClient;
+import com.example.simplerest.persistence.rest.github.response.listissuesforarepository.RepositoryIssue;
 import org.springframework.stereotype.Repository;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 import static com.example.demo.persistence.rest.Utility.createUrl;
-import static com.example.demo.persistence.rest.github.Constant.DOMAIN;
+import static com.example.simplerest.persistence.rest.github.Constant.DOMAIN;
 
 /**
  * @author Yudai Tokunaga

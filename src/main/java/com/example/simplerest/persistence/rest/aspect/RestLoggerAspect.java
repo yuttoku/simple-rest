@@ -1,4 +1,4 @@
-package com.example.demo.persistence.rest.aspect;
+package com.example.simplerest.persistence.rest.aspect;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;

@@ -1,7 +1,6 @@
-package com.example.demo.persistence.rest.github;
+package com.example.simplerest.persistence.rest.github;
 
-import com.example.demo.persistence.rest.github.response.listissuesforarepository.RepositoryIssue;
-
+import com.example.simplerest.persistence.rest.github.response.listissuesforarepository.RepositoryIssue;
 import java.util.List;
 
 /**

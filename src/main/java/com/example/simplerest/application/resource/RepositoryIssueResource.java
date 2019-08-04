@@ -1,6 +1,6 @@
-package com.example.demo.application.resource;
+package com.example.simplerest.application.resource;
 
-import com.example.demo.domain.resository.dto.repositoryissue.RepositoryIssueDTO;
+import com.example.simplerest.domain.resository.dto.repositoryissue.RepositoryIssueDTO;
 import lombok.Data;
 
 /**

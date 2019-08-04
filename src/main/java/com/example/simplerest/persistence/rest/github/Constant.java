@@ -1,4 +1,4 @@
-package com.example.demo.persistence.rest.github;
+package com.example.simplerest.persistence.rest.github;
 
 /**
  * @author Yudai Tokunaga

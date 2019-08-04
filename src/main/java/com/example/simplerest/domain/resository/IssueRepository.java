@@ -1,6 +1,6 @@
-package com.example.demo.domain.resository;
+package com.example.simplerest.domain.resository;
 
-import com.example.demo.domain.resository.dto.repositoryissue.RepositoryIssueDTO;
+import com.example.simplerest.domain.resository.dto.repositoryissue.RepositoryIssueDTO;
 import java.util.List;
 import java.util.Map;
 

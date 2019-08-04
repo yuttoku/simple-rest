@@ -1,9 +1,8 @@
-package com.example.demo.domain.service;
+package com.example.simplerest.domain.service;
 
-import com.example.demo.domain.resository.IssueRepository;
-import com.example.demo.domain.resository.dto.repositoryissue.RepositoryIssueDTO;
+import com.example.simplerest.domain.resository.IssueRepository;
+import com.example.simplerest.domain.resository.dto.repositoryissue.RepositoryIssueDTO;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
 import java.util.Map;
 
