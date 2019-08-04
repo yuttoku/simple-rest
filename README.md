@@ -63,7 +63,7 @@ $ java -jar target/simple-rest-0.0.1-SNAPSHOT.jar
 ```
 
 ### Log
-Communication between this API and other API is recorded in spring.log as follows
+Communication between this API and other API is recorded in simple-rest/spring.log as follows
 ```
 Signature: List com.example.simple-rest.persistence.rest.github.IssuesRestClientImpl.requestListIssuesForaRepository(String)
 Request: [http://localhost:8080/api/repos/spring-projects/spring-boot/issues?page=1&per_page=10]
