@@ -59,7 +59,7 @@ ex. http://localhost:8080/api/repos/spring-projects/spring-boot/issues?page=1&pe
 $ git clone https://github.com/yuttoku/simple-rest.git
 $ cd simple-rest
 $ ./mvnw package
-$ java -jar target/simple-rest-0.0.1-SNAPSHOT.jar
+$ java -jar target/demo-0.0.1-SNAPSHOT.jar
 ```
 
 ### Log
