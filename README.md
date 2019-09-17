@@ -7,7 +7,7 @@ This project is simple Restful API using Spring Boot and JDK 12.
 ```GET /api/repos/:owner/:repo/issues```  
 
 Request to Github API [List Issues For a Repository](https://developer.github.com/v3/issues/#list-issues-for-a-repository) and format the response.  
-"key" values ​​are formatted to 10 characters or less, "body" values ​​to 30 characters or less.  
+"title" values ​​are formatted to 10 characters or less, "body" values ​​to 30 characters or less.  
 ex. http://localhost:8080/api/repos/spring-projects/spring-boot/issues?page=1&per_page=10
 ```
 [
